@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="abc">If you need a professional, mobile-ready website, our personalized website building service can get you up and running in no time at all</string>
+    <string name="cde">Marolix  is one of the best enterprise Digital Marketing development company in India. Our expertise lies in building</string>
+    <string name="efg">Marolix  is one of the best enterprise mobile application development company in India. Our expertise lies in building  Android and iOS applications</string>
+</resources>

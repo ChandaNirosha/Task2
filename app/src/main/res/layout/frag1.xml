@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Frag1Activity">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+    <ImageView
+        android:src="@drawable/webdesign"
+        android:id="@+id/image1"
+        android:layout_width="250dp"
+        android:layout_height="150dp" />
+    <TextView
+        android:text="webdesign"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:src="@drawable/print"
+        android:id="@+id/image2"
+        android:layout_width="250dp"
+        android:layout_height="150dp" />
+    <TextView
+        android:text="Digital"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:src="@drawable/digital"
+        android:id="@+id/image3"
+        android:layout_width="250dp"
+        android:layout_height="150dp" />
+    <TextView
+        android:text="Interior"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <ImageView
+        android:src="@drawable/mobile"
+        android:id="@+id/image4"
+        android:layout_width="250dp"
+        android:layout_height="150dp" />
+    <TextView
+        android:text="Mobile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    </LinearLayout>
+    </ScrollView>
+</LinearLayout>
